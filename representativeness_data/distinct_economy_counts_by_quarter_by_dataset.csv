@@ -175,3 +175,11 @@ year,quarter,dataset,count_distinct_economies
 2025,2,organizations,192
 2025,2,repositories,231
 2025,2,topics,106
+2025,3,developers,229
+2025,3,economy_collaborators,185
+2025,3,git_pushes,192
+2025,3,languages,176
+2025,3,licenses,146
+2025,3,organizations,192
+2025,3,repositories,232
+2025,3,topics,83
