@@ -82,9 +82,10 @@ We report on the following metrics:
 
 ##### Schema for `economy_collaborators.csv`
 
-| weight | source | destination | iso2_code | year | quarter
-| --- | --- | --- | --- | --- | --- |
-| integer | string | string | string | integer | integer |
+| weight | source | destination | year | quarter
+| --- | --- | --- | --- | --- |
+| integer | string | string | integer | integer |
+
 ## Intended & inappropriate uses
 
 ### 7. What are the intended purposes for this dataset?
