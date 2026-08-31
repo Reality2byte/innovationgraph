@@ -35,6 +35,10 @@ Additionally, economies that have fewer developers on GitHub (which generally co
 
 See the [datasheet](./docs/datasheet.md#intended--inappropriate-uses) for more information on limitations.
 
+### Supplementary data
+
+- The [git_pushes_weighted_by_profile_economy](./supplementary_data/git_pushes_weighted_by_profile_economy/git_pushes_weighted_by_profile_economy.csv) and [git_pushes_weighted_by_profile_economy_per_capita.csv](./supplementary_data/git_pushes_weighted_by_profile_economy/git_pushes_weighted_by_profile_economy_per_capita.csv) datasets were prepared for the Global Digital Collaboration Conference 2026 (GDC26). See [supplementary_data/git_pushes_weighted_by_profile_economy/README.md](./supplementary_data/git_pushes_weighted_by_profile_economy/README.md) for more information.
+
 ### Representativeness of Innovation Graph data
 
 #### How many economies are included?
