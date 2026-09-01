@@ -468,11 +468,11 @@
         },
         "pygments": {
             "hashes": [
-                "sha256:13fc09fa63bc8d8671a6d247e1eb303c4b343eaee81d861f3404db2935653692",
-                "sha256:1daff0494820c69bc8941e407aa20f577374ee88364ee10a98fdbe0aece96e29"
+                "sha256:2363c69b61c4a97c838da3b130dcd6468f4848992b21a82f2a63ec34377137d9",
+                "sha256:610ca751c9bc2492b38eb9a38a7fbc93edbbb2d7182edaf34e66ae493dee5c8c"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==2.16.1"
+            "markers": "python_version >= '3.9'",
+            "version": "==2.21.0"
         },
         "pyrsistent": {
             "hashes": [
